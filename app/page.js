@@ -1,6 +1,6 @@
 "use client";
 import Container from "./components/Container";
-import History from "./components/History/HIstory";
+import History from "./components/History/History";
 import Sidebar from "./components/Sidebar/Sidebar";
 import "./globals.css";
 import axios from "axios";
