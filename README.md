@@ -1,6 +1,11 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
+![onnow](https://user-images.githubusercontent.com/62474138/236649500-ecde250d-ff19-4cf4-aa02-cb45d42389c9.png)
+# Link
+[https://onnow-nextjs.vercel.app/](https://onnow-nextjs.vercel.app/)
+
+# Facing some responsiveness issue, and  have to implement some filtering. This will be done soon!
 
 First, run the development server:
 
